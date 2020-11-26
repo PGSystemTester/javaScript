@@ -1,4 +1,4 @@
-# Test if Variable Defined
+# Test if Variable Undefined
 
 Explained in detail in this [StackOverFlow Post](https://stackoverflow.com/questions/2647867/how-can-i-determine-if-a-variable-is-undefined-or-null)
 
