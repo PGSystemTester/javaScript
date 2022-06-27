@@ -10,3 +10,7 @@ This is just for reference, not an actual project.
 
 ## Help Boards
 - [StackOverFlow](https://stackoverflow.com/) I've spent a lot of time on here....
+
+## Misc Function
+- [Is Variable Undefined](https://github.com/PGSystemTester/javaScript/blob/main/isVariableUndefined.md)
+- [Is Number](??)
